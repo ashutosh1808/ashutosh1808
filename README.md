@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashutosh Mishra</h1>
-<h3 align="center">An enthusiastic Machine Learning and Full Stack Web Developer</h3>
+<h3 align="center">An enthusiastic Full Stack developer, Machine learning enthusiast</h3>
 
 - 🔭 I’m currently working on **Machine Learning Projects**
 
@@ -8,6 +8,8 @@
 - 👯 I’m looking to collaborate on **Web Development**
 
 - 🤝 I’m looking for help with **Mobile app development**
+
+- 💬 Ask me about **python, java, cpp**
 
 - 📫 How to reach me **2020.ashutosh.mishra@ves.ac.in**
 
