@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Machine Learning Projects**
 
-- 🌱 I’m currently learning **MERN Stack development**
+- 🌱 I’m currently learning **MERN Stack and DSA**
 
 - 👯 I’m looking to collaborate on **Web Development**
 
