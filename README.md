@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **MERN Stack development**
 
-- 👯 I’m looking to collaborate on **Web Development**
+- 👯 I’m looking to collaborate on **Web Development projects**
 
 - 🤝 I’m looking for help with **Mobile app development**
 
