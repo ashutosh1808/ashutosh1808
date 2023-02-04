@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **Mobile app development**
 
-- 💬 Ask me about **Python, Java, C++**
+- 💬 Ask me about **Python, Java, MERN**
 
 - 📫 How to reach me **2020.ashutosh.mishra@ves.ac.in**
 
