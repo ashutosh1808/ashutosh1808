@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Machine Learning Projects**
 
-- 🌱 I’m currently learning **Android App Development**
+- 🌱 I’m currently learning **DSA**
 
 - 👯 I’m looking to collaborate on **Web Development projects**
 
