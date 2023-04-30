@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashutosh1808&label=Profile%20views&color=0e75b6&style=flat" alt="ashutosh1808" /> </p>
 
-- 🔭 I’m currently working on [Machine Learning Projects](http://insureme.pythonanywhere.com/login)
+- 🔭 I’m currently working on **Machine Learning Projects**
 
 - 🌱 I’m currently learning **OpenCV**
 
