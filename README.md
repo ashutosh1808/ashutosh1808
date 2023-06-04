@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on **Machine Learning Projects**
 
-- 🌱 I’m currently learning **OpenCV**
+- 🌱 I’m currently learning **Tensorflow**
 
-- 👯 I’m looking to collaborate on **MERN Stack Development**
+- 👯 I’m looking to collaborate on **MERN Stack Projects**
 
 - 👨‍💻 All of my projects are available at [https://ashutoshmishra1808-9eec4.web.app/](https://ashutoshmishra1808-9eec4.web.app/)
 
