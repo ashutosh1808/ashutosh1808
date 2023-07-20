@@ -5,15 +5,15 @@
 
 - 🔭 I’m currently working on **Machine Learning Projects**
 
-- 🌱 I’m currently learning **Tensorflow**
+- 🌱 I’m currently learning **Django**
 
-- 👯 I’m looking to collaborate on **MERN Stack Projects**
+- 👯 I’m looking to collaborate on **Web Development Projects**
 
-- 👨‍💻 All of my projects are available at [https://ashutoshmishra1808-9eec4.web.app/](https://ashutoshmishra1808-9eec4.web.app/)
+- 👨‍💻 All of my projects are available at [My Portfolio Website](https://ashutoshmishra1808-9eec4.web.app/)
 
 - 🤝 I’m looking for help with **DSA**
 
-- 💬 Ask me about **Java, Python**
+- 💬 Ask me about **Java, Python, MERN**
 
 - 📫 How to reach me **2020.ashutosh.mishra@ves.ac.in**
 
