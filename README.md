@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Machine Learning Projects**
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **Power BI**
 
 - 👯 I’m looking to collaborate on **Web Development Projects**
 
