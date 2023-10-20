@@ -35,3 +35,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashutosh1808&show_icons=true&locale=en" alt="ashutosh1808" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashutosh1808&" alt="ashutosh1808" /></p>
+
+[![An image of @ashutosh1808's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ashutosh1808)](https://holopin.io/@ashutosh1808)
